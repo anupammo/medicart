@@ -1,0 +1,48 @@
+/* coded by Anupam M */
+/* www.anupammondal.in */
+header {
+  height: 300px;
+  background-color: #ffffff;
+  padding: 100px 20px;
+  background-size: cover;
+  background-image: url(https://images.pexels.com/photos/415825/pexels-photo-415825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-position: center;
+}
+header h2 {
+  border: #fff solid 2px;
+  border-radius: 3px;
+  padding: 30px;color: #fff;
+  background-color: #007bffcc;
+  width: fit-content;
+  margin: 0 auto;
+}
+.prdct {
+  margin: 25px 15px;
+  background: #007bff;
+  padding: 25px 20px;
+  border-radius: 5px;
+}
+.nav-tabs>li a {
+  color: #007bff;
+}
+.tab-content {
+  margin-bottom: 50px;
+}
+.prdct p {
+  color: #fff;
+}
+button.btn.btn-info {
+  background-color: #007bff !important;
+  border-color: #007bff !important;
+  background-image: none;
+}
+footer {
+  background-color: #007bff;
+  color: #fff;
+  padding: 25px 20px;
+}
+div.prdct p {
+    cursor: pointer;
+}
+/* www.anupammondal.in */
+/* coded by Anupam M */
